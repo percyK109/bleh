@@ -100,3 +100,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149310
+  packageName: 'Unity Learn | Creator Kit: FPS | URP'
+  packageVersion: 4.0
+  assetPath: Assets/Creator Kit - FPS/Art/Models/Props/Tooth.fbx
+  uploadId: 683077

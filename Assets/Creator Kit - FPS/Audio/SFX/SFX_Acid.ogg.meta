@@ -20,3 +20,10 @@ AudioImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149310
+  packageName: 'Unity Learn | Creator Kit: FPS | URP'
+  packageVersion: 4.0
+  assetPath: Assets/Creator Kit - FPS/Audio/SFX/SFX_Acid.ogg
+  uploadId: 683077

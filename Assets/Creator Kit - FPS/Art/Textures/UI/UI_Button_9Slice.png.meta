@@ -152,3 +152,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149310
+  packageName: 'Unity Learn | Creator Kit: FPS | URP'
+  packageVersion: 4.0
+  assetPath: Assets/Creator Kit - FPS/Art/Textures/UI/UI_Button_9Slice.png
+  uploadId: 683077
